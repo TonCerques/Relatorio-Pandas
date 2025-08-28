@@ -1,0 +1,22 @@
+[
+    {
+        "idExercicio":1,
+        "nome_exer":"Supino Reto"
+    },
+    {
+        "idExercicio":2,
+        "nome_exer":"Agachamento Livre"
+    },
+    {
+        "idExercicio":3,
+        "nome_exer":"Levantamento Terra"
+    },
+    {
+        "idExercicio":4,
+        "nome_exer":"Flex\u00e3o de Bra\u00e7o"
+    },
+    {
+        "idExercicio":5,
+        "nome_exer":"Corrida na Esteira"
+    }
+]

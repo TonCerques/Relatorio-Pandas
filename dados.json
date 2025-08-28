@@ -1,0 +1,17 @@
+{
+    "nome": [
+        "Ana",
+        "Carlos",
+        "Bruna"
+    ],
+    "idade": [
+        25,
+        30,
+        22
+    ],
+    "cidade": [
+        "S\u00e3o Paulo",
+        "Rio de Janeiro",
+        "Belo Horizonte"
+    ]
+}

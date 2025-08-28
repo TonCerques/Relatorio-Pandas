@@ -1,0 +1,27 @@
+[
+    {
+        "idTreino":1,
+        "categoria":"Muscula\u00e7\u00e3o",
+        "tipoTreino":"For\u00e7a"
+    },
+    {
+        "idTreino":2,
+        "categoria":"Calistenia",
+        "tipoTreino":"Resist\u00eancia Muscular"
+    },
+    {
+        "idTreino":3,
+        "categoria":"CrossFit",
+        "tipoTreino":"Pot\u00eancia"
+    },
+    {
+        "idTreino":4,
+        "categoria":"Cardiorrespirat\u00f3rio",
+        "tipoTreino":"Resist\u00eancia Cardiorrespirat\u00f3ria"
+    },
+    {
+        "idTreino":5,
+        "categoria":"Treino HIT",
+        "tipoTreino":"Velocidade"
+    }
+]
